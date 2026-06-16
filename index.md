@@ -22,4 +22,4 @@ Since Calendo stores all data locally on your device:
 - **To disconnect Google Calendar:** Open Calendo → tap the sync icon → Disconnect
 - **To delete everything:** Uninstall the app
 
-For any data deletion requests, contact: [your email here]
+For any data deletion requests, contact: thecountsbd@gmail.com
