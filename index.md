@@ -14,3 +14,12 @@ If you connect your Google account, we access your Google Calendar data solely t
 The free version displays ads served by Google AdMob. Google's privacy policy applies to ad serving: https://policies.google.com/privacy
 ## Contact
 thecountsbd@gmail.com
+## How to delete your data
+
+Since Calendo stores all data locally on your device:
+
+- **To delete all app data:** Go to your phone's Settings → Apps → Calendo → Clear Data
+- **To disconnect Google Calendar:** Open Calendo → tap the sync icon → Disconnect
+- **To delete everything:** Uninstall the app
+
+For any data deletion requests, contact: [your email here]
